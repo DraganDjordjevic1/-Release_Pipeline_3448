@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{1D4A8D8A-6C4C-4434-B59B-46CE070426C0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReleasePipeDemoApp", "WebApplication1\ReleasePipeDemoApp.csproj", "{1D4A8D8A-6C4C-4434-B59B-46CE070426C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1.Tests", "WebApplication1.Tests\WebApplication1.Tests.csproj", "{8296334E-3CF7-4FC0-AAB7-21EF81CF642E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReleasePipeDemoApp.Tests", "WebApplication1.Tests\ReleasePipeDemoApp.Tests.csproj", "{8296334E-3CF7-4FC0-AAB7-21EF81CF642E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
